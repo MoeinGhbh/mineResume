@@ -1,0 +1,113 @@
+{
+  "navigation": [
+    {
+      "content": "About",
+      "to": "about"
+    },
+    {
+      "content": "Skill",
+      "to": "Skill"
+    }
+  ],
+  "title": "Moein Ghobbeh",
+  "Subtitle": "Software developer with more than nine years track record of software development, technologies and well designed software. Well-versed in all phases of the software development life-cycle, with a strong working knowledge of algorithms, data structures, OOD, micro services and design patterns. Never gives up from trying new technologies. Always keeping an eye on the latest trends over web design and programming. Hard worker, loves communications and internet, hope to work with professional teams to learn more.",
+  "links": {
+    "github": "https://github.com/moeinghbh",
+    "Linkedin": "http://linkedin.com/moein-ghobbeh",
+    "E-mail": "http://gmail.com",
+    "Twitter": "http://twitter.com",
+    "facebook": "http://facebook.com"
+  },
+
+  "Section": [
+    {
+      "title": "About",
+      "item": [
+        {
+          "title": "about",
+          "Content": "ffffffffffffffffffffffffff"
+        }
+      ]
+    },
+    {
+      "Skills": "Skills",
+      "items": [
+        {
+          "type": "card",
+          "content": {
+            "image": "img/python.png",
+            "title": "python",
+            "Description": "Python is an interpreted, object-oriented, high-level programming language with dynamic semantics"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "img/React.png",
+            "title": "React",
+            "Description": "ReactJS is JavaScript library used for building reusable UI components"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "img/css.png",
+            "title": "css",
+            "Description": "CSS. Stands for \"Cascading Style Sheet.\" Cascading style sheets are used to format the layout of Web pages"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "img/sqlserver.png",
+            "title": "sql server",
+            "Description": "SQL Server is a database server by Microsoft. The Microsoft relational database management system is a software product which primarily stores and retrieves data requested by other applications."
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "img/mongodb.png",
+            "title": "mongodb",
+            "Description": "MongoDB is a cross-platform and open-source document-oriented database, a kind of NoSQL database."
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image": "img/Html.png",
+            "title": "html",
+            "Description": "HTML is short for Hypertext Markup Language. HTML is used to create electronic documents (called pages) that are displayed on the World Wide Web."
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image":"img/netcore.png",
+            "title":"Microsoft .Net (C#,.Net Code MVC)",
+            "Description":".NET Core is an open-source, general-purpose development platform maintained by Microsoft and the .NET community on GitHub"
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image":"img/git.png",
+            "title":"Git- Source version Control",
+            "Description":"Git is a distributed version-control system for tracking changes in source code during software development."
+          }
+        },
+        {
+          "type": "card",
+          "content": {
+            "image":"img/d3.png",
+            "title":"Visuvalisation 3D",
+            "Description":"D3 is a JavaScript library for producing dynamic, interactive data visualizations in web browsers"
+          }
+        }
+      ]
+    }
+  ],
+  "icon": {
+    "icon": "sad"
+  }
+}

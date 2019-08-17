@@ -1,0 +1,31 @@
+    .Skill{
+         color: blue;
+         display: flex;
+         flex-direction: row;
+         flex-wrap: wrap;
+         align-items: center;
+         border-color: blueviolet;
+         border: 1px solid black;
+    }
+    .Card{
+          display: flex;
+          flex-direction: column;
+          border: 4px solid black;
+          width: 30%;
+          height: 100%;
+          margin: 1em;
+          padding: 1em;
+   }
+
+    /* .Card p{
+        width: 40%;
+   }  */
+
+   .skill-sec{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        align-items: center;
+        border-color: blueviolet;
+        border: 1px solid black;
+   } 

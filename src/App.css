@@ -1,0 +1,14 @@
+.App{
+  display: flex;
+  flex-direction: column;
+}
+
+.dark{
+  background: border-box;
+
+}
+
+.light{
+
+  background:chartreuse;
+}

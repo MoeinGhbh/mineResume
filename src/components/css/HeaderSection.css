@@ -1,0 +1,27 @@
+.DivHeader {
+  background-image: url("../img/Programing.jpg");
+  background-size: contain;
+  max-height: 30vh;
+  height: 100vh;
+}
+
+.divCadr{
+  background-color:black;
+  width: 60%;
+  border: 3px solid #73AD21;
+  padding: 10px;
+  margin-top: auto;
+  text-align: center;
+
+  margin-top: 5%;
+  margin-left: 20%;
+  margin-right: 20%;
+
+
+}
+
+.h4Title {
+  font-size: calc(10px + 2vmin);
+  color:white;
+  font-style: italic;
+}

@@ -1,0 +1,53 @@
+/*==================================================
+                      ABOUT
+====================================================*/
+#about {
+    background-image: url(../img/portfolio/p-2.jpg); 
+    background-size: cover; 
+    background-position: center center;
+    background-repeat: no-repeat;
+    margin-top: 0vh;
+}
+
+.Summery{
+    font-size: 20x;
+    width: 40%;
+    align-content: stretch;
+    font-family: Comic sans MS;
+    border: 1px solid powderblue;
+    color:yellow;
+    font-feature-settings: "c2sc";
+    }
+
+.DivSum{
+    border: 5px;
+    border-color: aqua;
+    width: 100%;
+    align-content: center;
+}
+/*==================================================
+                  SOCIAL-ICON
+====================================================*/
+  .list-social-icons a {
+      color: #495057;
+  }
+
+  .list-social-icons a:hover {
+      color: #2196f3;
+  }
+
+  .list-social-icons a .fa-lg {
+      font-size: 1.75rem;
+  }
+
+  .list-icons {
+      font-size: 3rem;
+  }
+
+  .list-icons .list-inline-item i:hover {
+      color: #2196f3;
+  } 
+
+
+ 
+
