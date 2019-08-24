@@ -1,0 +1,9 @@
+img{
+  margin-top:1%;
+  margin-left:1%;
+  cursor: crosshair;
+}
+
+.divImg{
+  display: flex;
+}

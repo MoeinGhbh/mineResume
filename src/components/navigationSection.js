@@ -78,8 +78,8 @@ export default class NavagationSection extends Component {
                   </a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link js-scroll-trigger" href="#awards">
-                    Awards
+                  <a class="nav-link js-scroll-trigger" href="#Projects">
+                    Projects
                   </a>
                 </li>
                 <li class="nav-item">

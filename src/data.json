@@ -10,11 +10,10 @@
     }
   ],
   "title": "Moein Ghobbeh",
-  "Subtitle": "Software developer with more than nine years track record of software development, technologies and well designed software. Well-versed in all phases of the software development life-cycle, with a strong working knowledge of algorithms, data structures, OOD, micro services and design patterns. Never gives up from trying new technologies. Always keeping an eye on the latest trends over web design and programming. Hard worker, loves communications and internet, hope to work with professional teams to learn more.",
+  "Subtitle": "Software developer with more than nine years track record of software development, technologies and well designed software. Well-versed in all phases of the software development life-cycle,   with a strong working knowledge of algorithms, data structures, OOD, micro services and design patterns.",
   "links": {
     "github": "https://github.com/moeinghbh",
     "Linkedin": "http://linkedin.com/moein-ghobbeh",
-    "E-mail": "http://gmail.com",
     "Twitter": "http://twitter.com",
     "facebook": "http://facebook.com"
   },
@@ -24,11 +23,12 @@
       "title": "About",
       "item": [
         {
-          "title": "about",
-          "Content": "ffffffffffffffffffffffffff"
+          "title": "My Favorite Site:",
+          "Content": "These links are my references for learning website design "
         }
       ]
     },
+
     {
       "Skills": "Skills",
       "items": [
@@ -83,25 +83,25 @@
         {
           "type": "card",
           "content": {
-            "image":"img/netcore.png",
-            "title":"Microsoft .Net (C#,.Net Code MVC)",
-            "Description":".NET Core is an open-source, general-purpose development platform maintained by Microsoft and the .NET community on GitHub"
+            "image": "img/netcore.png",
+            "title": "Microsoft .Net (C#,.Net Code MVC)",
+            "Description": ".NET Core is an open-source, general-purpose development platform maintained by Microsoft and the .NET community on GitHub"
           }
         },
         {
           "type": "card",
           "content": {
-            "image":"img/git.png",
-            "title":"Git- Source version Control",
-            "Description":"Git is a distributed version-control system for tracking changes in source code during software development."
+            "image": "img/git.png",
+            "title": "Git- Source version Control",
+            "Description": "Git is a distributed version-control system for tracking changes in source code during software development."
           }
         },
         {
           "type": "card",
           "content": {
-            "image":"img/d3.png",
-            "title":"Visuvalisation 3D",
-            "Description":"D3 is a JavaScript library for producing dynamic, interactive data visualizations in web browsers"
+            "image": "img/d3.png",
+            "title": "Visuvalisation 3D",
+            "Description": "D3 is a JavaScript library for producing dynamic, interactive data visualizations in web browsers"
           }
         }
       ]
@@ -109,5 +109,25 @@
   ],
   "icon": {
     "icon": "sad"
+  },
+
+  "icons": {
+    "switch": "img/changeThem.png",
+    "down":"img/changeThem.png"
+  },
+
+  "experience":{
+      "First":{
+        "Title":"International system and automation company",
+        "Explaine":"IRISA (International Systems Engineering & Automation Company­)    Developer  2008­- 2011 I was part of a team developing management systems to implement management techniques and metrics to assist the company in making strategic decisions. I worked to different projects by different technology and I had to develop my skills and abilities to satisfy my customers and my company, so I learned varied technologies, tools, and frameworks and models like, MVC, when was high-tech in Information technology World."
+      },
+      "Second":{
+        "Title":"MSC - Mobarakeeh steel company",
+        "Explaine":"2011-Present Provide consulting and designing and implementing applications and test, based on two benchmark resources (framework, standard and model) called: \"Develop vision and strategy\" process group in APQC(American Productivity & quality Center- Process classification framework) and EA (Enterprise Architect framework) include several module as: Strategy planning based on BSC model (Balanced Scorecard), stakeholder management, Business process management, Corrective Actions and Project portfolio management, Change management, Risk Management, Evolution systems (ISO-EFQM), provide analysis environment and dashboards of KPI'S and Data Mining by Business Intelligence, knowledge management,... To achieve strategy decision of an organization and continuous Improvement, organizational Improvement, Process and Performance Management, Business Process Reengineering (BPR)."
+      },
+      "Third":{
+        "Title":"",
+        "Explaine":""
+      }
   }
 }

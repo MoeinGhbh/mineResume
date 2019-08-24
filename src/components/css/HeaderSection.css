@@ -3,25 +3,26 @@
   background-size: contain;
   max-height: 30vh;
   height: 100vh;
+  align-items: center;
+  
 }
 
-.divCadr{
-  background-color:black;
+.divCadr {
+  background-color: black;
   width: 60%;
-  border: 3px solid #73AD21;
-  padding: 10px;
-  margin-top: auto;
+  border: 3px solid #73ad21;
+  height: 10%;
   text-align: center;
-
-  margin-top: 5%;
+  vertical-align: middle;
+  margin-top: 0%;
   margin-left: 20%;
   margin-right: 20%;
-
-
+  padding: 10px;
+  
 }
 
 .h4Title {
   font-size: calc(10px + 2vmin);
-  color:white;
+  color: white;
   font-style: italic;
 }

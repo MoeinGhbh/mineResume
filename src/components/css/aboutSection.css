@@ -7,16 +7,18 @@
     background-position: center center;
     background-repeat: no-repeat;
     margin-top: 0vh;
+    height: 90vh;
 }
 
 .Summery{
-    font-size: 20x;
+    font-size: 10x;
     width: 40%;
     align-content: stretch;
     font-family: Comic sans MS;
-    border: 1px solid powderblue;
-    color:yellow;
+    color:black;
     font-feature-settings: "c2sc";
+    margin-left: 15%;
+    margin-top: 7%;
     }
 
 .DivSum{
@@ -28,6 +30,10 @@
 /*==================================================
                   SOCIAL-ICON
 ====================================================*/
+    .divSocial{
+        margin-top: 15%;
+    }
+
   .list-social-icons a {
       color: #495057;
   }

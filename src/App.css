@@ -1,14 +1,34 @@
+.App-day {
+  text-align: center;
+  color:#000;
+  background:firebrick;
+  margin:0;
+  padding: 0;
+  margin:auto auto auto auto;
+  max-width: 96%;
+  margin-bottom: 1.6%;
+}
+.App-night {
+  margin:auto;
+  text-align: center;
+  color:maroon;
+  background:chocolate;
+  margin:0;
+  padding: 0;
+  margin:auto auto auto auto;
+  max-width: 96%;
+  margin-bottom: 1.6%;
+}
+
 .App{
   display: flex;
   flex-direction: column;
-}
+} 
 
-.dark{
-  background: border-box;
 
-}
-
-.light{
-
-  background:chartreuse;
-}
+ .tdAlign{
+  vertical-align: 0%;
+  margin-left: 0%;
+  text-align: left;
+  border: 2px;
+} 
